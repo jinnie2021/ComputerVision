@@ -1,1 +1,1 @@
-# ComputerVision2022Spring
+# ComputerVision
